@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="iNUPCORegressionTestSuite" verbose="1" parallel="false">
+    <test name="Shipping Tests">
+        <groups>
+            <run>
+                <include name="${groups}"/>
+            </run>
+        </groups>
+        <packages>
+            <package name="com.nupco.tests.InboundFlowsTests"/>
+            <package name="com.nupco.tests.outboundFlowsTests"/>
+        </packages>
+    </test>
+</suite>
+        <!-- To Integrate With Maven You Should Update Pom.xml to be-->
+
+        <!--
+        You should Add the following tag for the configuration of xml file
+        <configuration>
+                <suiteXmlFiles>
+                    <suiteXmlFile>src/test/resources/testng-regression.xml</suiteXmlFile>
+                </suiteXmlFiles>
+        -->
+
+        <!-- To Run The file From Terminal of project run the following command-->
+
+        <!-- mvn test -->
+
+

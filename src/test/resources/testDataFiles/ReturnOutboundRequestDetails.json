@@ -1,0 +1,7 @@
+{
+  "requestedQty": "1",
+  "orderNote": "This is the order added note !!",
+  "qualityIssueLabel" : "Quality issue",
+  "qtyIssueLabel": "Quantity issue",
+  "fileName": "request_"
+}

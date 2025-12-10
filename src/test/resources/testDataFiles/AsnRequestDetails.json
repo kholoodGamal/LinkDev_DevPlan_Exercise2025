@@ -1,0 +1,15 @@
+{
+  "invoiceNum": "INV-123",
+  "deliveryTime": "12:00 pm",
+  "batchNum": "BAT-123",
+  "palletsNum": "1",
+  "qty": "1",
+  "truckValue": "22",
+  "form1NumberValue": "2526",
+  "feedbackData": " This is description of the field ",
+  "printProformaFileName": "iNUPCO Invoicing Proforma",
+  "exportPdfFileName": "request_",
+  "updateInvoiceNum": "INVOICE-123",
+  "location": "120001 - MOH - Riyadh Health Directorate",
+  "noteText": "there is a note for test"
+}

@@ -1,0 +1,9 @@
+{
+  "requestedQty": "1",
+  "requestedQty_update": "2",
+  "orderNote": "This is the order added note !!",
+  "itemNote": "This is the item added note !!",
+  "updatedItemNote": "This is the updated item added note !!",
+  "fileName": "request_outbound_request_",
+  "emergencyRequestType": "Emergency"
+}
